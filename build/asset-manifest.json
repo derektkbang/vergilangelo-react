@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vergilangelo-react/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/vergilangelo-react/static/js/main.b9ae3945.chunk.js",
+    "main.js.map": "/vergilangelo-react/static/js/main.b9ae3945.chunk.js.map",
+    "runtime-main.js": "/vergilangelo-react/static/js/runtime-main.1db83e7b.js",
+    "runtime-main.js.map": "/vergilangelo-react/static/js/runtime-main.1db83e7b.js.map",
+    "static/js/2.a29f6274.chunk.js": "/vergilangelo-react/static/js/2.a29f6274.chunk.js",
+    "static/js/2.a29f6274.chunk.js.map": "/vergilangelo-react/static/js/2.a29f6274.chunk.js.map",
+    "static/js/3.21d17805.chunk.js": "/vergilangelo-react/static/js/3.21d17805.chunk.js",
+    "static/js/3.21d17805.chunk.js.map": "/vergilangelo-react/static/js/3.21d17805.chunk.js.map",
+    "index.html": "/vergilangelo-react/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/vergilangelo-react/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a29f6274.chunk.js.LICENSE.txt": "/vergilangelo-react/static/js/2.a29f6274.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/vergilangelo-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1db83e7b.js",
+    "static/js/2.a29f6274.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.b9ae3945.chunk.js"
+  ]
+}
